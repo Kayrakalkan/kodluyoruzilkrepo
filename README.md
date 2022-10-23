@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-Bu repo [Kodluyoruz](https://www.google.com/search?client=safari&rls=en&q=kodluyoruz&ie=UTF-8&oe=UTF-8) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet **README** dosyası bir adet **index.html** dosyası bulunmakta.
+Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet **README** dosyası bir adet **index.html** dosyası bulunmakta.
 ----------------------------------
 
 # Installation
